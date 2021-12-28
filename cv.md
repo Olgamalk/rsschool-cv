@@ -17,3 +17,18 @@ Get a job as a junior Front-end developer and help my experience and speech habi
 * February 2021 - May 2021, RS School, Javascript/Front-end developer (not finished)
 * July 2021 - August 2021, RS School, JS/FE Pre-School (finished)
 * September 2021 - November 2021, RS School, Javascript/Front-end developer (not finished)
+
+### Code example:
+
+```javascript
+function getMatrix(number) {
+  let matrix = [];
+  for (let i=0; i < number; i++) {
+    matrix[i] = [];
+    for (let j=0; j < number; j++) {
+      matrix[i][j] = (i == j ? 1 : 0);
+    }
+  }
+  return matrix;
+};
+```

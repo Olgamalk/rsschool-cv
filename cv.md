@@ -32,3 +32,30 @@ function getMatrix(number) {
   return matrix;
 };
 ```
+### My project
+https://rolling-scopes-school.github.io/olgamalk-JSFEPRESCHOOL/custom-video-player/
+https://rolling-scopes-school.github.io/olgamalk-JSFEPRESCHOOL/js-clock/
+
+## Skills
+## Computer Skills
+* **MS Office** (Word, Excel, Outlook)
+* **Spreadsheets** (Excel, Google Sheets)
+* **Database Management** (MySQL, SQL)
+* **Web** (HTML, CSS, Javascript, Typescript), code libraries
+* **Graphics** (Photoshop, Figma)
+
+## Languages
+* English - A2
+* Russian
+
+## Strengths
+* Communication Skills
+* Flexibility and Adaptability
+* Quick learner
+* Team oriented
+
+## Hobbies
+* Snowbording
+* Knitting
+* Reading Books
+* Travelling

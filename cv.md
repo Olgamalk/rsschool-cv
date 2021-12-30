@@ -33,8 +33,8 @@ function getMatrix(number) {
 };
 ```
 ### My project
-https://rolling-scopes-school.github.io/olgamalk-JSFEPRESCHOOL/custom-video-player/
-https://rolling-scopes-school.github.io/olgamalk-JSFEPRESCHOOL/js-clock/
+* https://rolling-scopes-school.github.io/olgamalk-JSFE2021Q3/momentum/
+* https://rolling-scopes-school.github.io/olgamalk-JSFE2021Q3/museum-dom/
 
 ## Skills
 ## Computer Skills

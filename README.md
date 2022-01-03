@@ -1,1 +1,1 @@
-# rsschool-cv
+https://olgamalk.github.io/rsschool-cv/
